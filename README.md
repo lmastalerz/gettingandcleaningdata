@@ -29,3 +29,7 @@ Simple rbind used to join raw data from test and train datasets. It's important 
 Check comments in the run_analysis.R for depails on the implementation.
 
 
+In addition to the run_analysis.R script repository contains:
+- README.md 
+- CodeBook.md - document describing contents on output file
+- final.wide.txt - output of run_analysis.R
